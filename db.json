@@ -1,20 +1,20 @@
 [
 {
-address:"Av Canada 234",
-name:"Paco Pablo Perez",
-age: "25",
+"address":"Av Canada 234",
+"name":"Paco Pablo Perez",
+"age": "25",
 },
 {
 
-address:"Av Brasil 253",
-name:"Maria Melissa Mosquera",
-age: "21",
+"address":"Av Brasil 253",
+"name":"Maria Melissa Mosquera",
+"age": "21",
 },
 {
 
-address:"Av Venezuela 954",
-name:"Roberto Ricardo Rebaza",
-age: "34"
+"address":"Av Venezuela 954",
+"name":"Roberto Ricardo Rebaza",
+"age": "34"
 }
 
 ]
